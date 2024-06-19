@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Trip-Website/static/css/main.8ee4dbf2.css",
+    "main.css": "/Trip-Website/static/css/main.cf4d221e.css",
     "main.js": "/Trip-Website/static/js/main.fa9c8bec.js",
     "static/js/453.1e098da6.chunk.js": "/Trip-Website/static/js/453.1e098da6.chunk.js",
     "static/media/Trip-3.jpg": "/Trip-Website/static/media/Trip-3.eef32d6fb8ba082899a3.jpg",
@@ -13,12 +13,12 @@
     "static/media/night.jpg": "/Trip-Website/static/media/night.ac6d287d5d0014553b87.jpg",
     "static/media/gallery-5.jpg": "/Trip-Website/static/media/gallery-5.4e7581ef9bea00f53860.jpg",
     "index.html": "/Trip-Website/index.html",
-    "main.8ee4dbf2.css.map": "/Trip-Website/static/css/main.8ee4dbf2.css.map",
+    "main.cf4d221e.css.map": "/Trip-Website/static/css/main.cf4d221e.css.map",
     "main.fa9c8bec.js.map": "/Trip-Website/static/js/main.fa9c8bec.js.map",
     "453.1e098da6.chunk.js.map": "/Trip-Website/static/js/453.1e098da6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8ee4dbf2.css",
+    "static/css/main.cf4d221e.css",
     "static/js/main.fa9c8bec.js"
   ]
 }
